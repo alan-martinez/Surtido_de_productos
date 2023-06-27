@@ -6,10 +6,12 @@ Tomando en cuenta el ID del producto ingresado, se hace una busqueda para iterar
 
 ## Librerias necesarias:
 pip install mysql-connector-python
+
 pip install prettytable
 
 ## Version de python utilizada:
 3.11.1
 
-Estructura de las tablas
+## Diagrama entidad-relación
+
 ![Entidad-Relacion](Diagrama-entidad-relacion.png)
